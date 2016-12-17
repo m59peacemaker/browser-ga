@@ -1,6 +1,6 @@
 # ga-b
 
-Function that loads Google Analytics and returns the [`ga` command queue](https://developers.google.com/analytics/devguides/collection/analyticsjs/command-queue-reference) object.
+Google Analytics for the browser as a module.
 
 ## install
 

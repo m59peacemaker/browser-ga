@@ -1,7 +1,7 @@
 {
   "name": "ga-b",
   "version": "1.1.0",
-  "description": "Function that loads Google Analytics and returns the `ga` command queue object.",
+  "description": "Google Analytics for the browser as a module.",
   "keywords": [
     "Google",
     "analytics",
