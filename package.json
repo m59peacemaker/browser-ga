@@ -1,0 +1,32 @@
+{
+  "name": "ga-b",
+  "version": "1.0.0",
+  "description": "Function that loads Google Analytics and returns the `ga` command queue object.",
+  "keywords": [
+    "Google",
+    "analytics",
+    "ga",
+    "script",
+    "load",
+    "module",
+    "export",
+    "browser",
+    "client",
+    "global"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/browser-ga"
+  },
+  "author": {
+    "name": "Johnny Hauser",
+    "email": "johnnyhauser@gmail.com"
+  },
+  "license": "VOL",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.3",
+    "wait-until": "0.0.2"
+  }
+}
