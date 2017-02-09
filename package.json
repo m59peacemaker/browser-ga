@@ -1,6 +1,6 @@
 {
   "name": "ga-b",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Google Analytics for the browser as a module.",
   "keywords": [
     "Google",
@@ -23,7 +23,7 @@
     "name": "Johnny Hauser",
     "email": "johnnyhauser@gmail.com"
   },
-  "license": "VOL",
+  "license": "CC0",
   "dependencies": {},
   "devDependencies": {
     "tape": "^4.6.3",
