@@ -1,9 +1,8 @@
 var gaSrc = 'https://www.google-analytics.com/analytics.js'
 var globalVar = '_ga-b_temporary_global_variable'
 
-function loadScript (src, cb) {
+function loadScript (src) {
   var script = document.createElement('script')
-  script.addEventListener('load', cb)
   script.src = src
   document.head.appendChild(script)
 }
